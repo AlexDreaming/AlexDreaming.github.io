@@ -6,13 +6,11 @@ bigimg: "/img/heikediguo.jpg"
 ---
 
 ## Research Experience
-- **Physics-Informed Neural Networks**
+- ### **Physics-Informed Neural Networks**
 
-School of Computing, University of Utah
-
-Oct., 2018 - Present
-
-Advisor: Prof. Shandian Zhe
+> * School of Computing, University of Utah
+> * Oct., 2018 - Present
+> * Advisor: Prof. Shandian Zhe
 > * **Primary Framework: Tensorflow**
 > * **Applied Bayesian Optimization, Genetic Algorithm, Hyperband and Random Search Algorithms to hyper-parameters optimization (width and depth) of Physics-Informed Neural Networks, a data-driven solution of nonlinear PDE (Partial Differential Equations), including Burgers and Poisson PDE.**
 > * **Used matplotlib to show the results of each algorithms on each PDE, where the best result (error rate) of Burgers is 3.3e-4 and that of Poisson is 0.7e-4.**
@@ -22,13 +20,11 @@ Advisor: Prof. Shandian Zhe
 ---
 
 
-- **Automation of Multifactor Models Construction**
+- ### **Automation of Multifactor Models Construction**
 
-IIIS, Tsinghua University     
-
-Jun. - Oct., 2018
-
-Advisor: Prof. Jian Li
+> * IIIS, Tsinghua University     
+> * Jun. - Oct., 2018
+> * Advisor: Prof. Jian Li
 > * **Primary Framework: Pytorch**
 > * **Independently investigated DART (Differentiable Architecture Search) and its implementation.**
 > * **Divided the recent stock data (including factor data and price data), into training set and verification set.**
