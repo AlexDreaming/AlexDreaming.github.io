@@ -5,6 +5,12 @@
 #   baseURL: Define a base URL which will be combined with the value of
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class
+<link rel="stylesheet" href="D:/MarkDown/cmd_markdown_win64/cmd_markdown_win64/font-awesome-4.7.0/font-awesome-4.7.0/css/font-awesome.min.css">
+
+weixin:
+  name: "Wechat"
+  baseURL: ""
+  icon: <i class="fa fa-weixin"></i> 
 
 facebook:
   name: "Facebook"
