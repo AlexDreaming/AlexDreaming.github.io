@@ -19,6 +19,8 @@ Advisor: Prof. Shandian Zhe
 > * **Analysed the sampling error of Physics-Informed Neural Networks of Burgers and Poisson PDE.**
 **[Here](Burgers_and_Poisson_10.pdf) are some figures of results.**
 
+---
+
 
 - **Automation of Multifactor Models Construction**
 
