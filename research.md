@@ -32,3 +32,7 @@ bigimg: "/img/heikediguo.jpg"
 > * **Published a paper (only author) From conventional Machine Learning to AutoML accepted by International Conference on Control Engineering and Artificial Intelligence (CCEAI 2019).**
 
 ---
+<br/>
+<br/>
+## Publications
+1. **Ziqiao Weng**, From conventional Machine Learning to AutoML, *International Conference on Control Engineering and Artificial Intelligence (CCEAI)*, 2019
