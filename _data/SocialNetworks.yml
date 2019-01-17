@@ -10,7 +10,7 @@
 weixin:
   name: "Wechat"
   baseURL: ""
-  icon: <i class="fa fa-weixin"></i> 
+  icon: "fa fa-weixin"
 
 facebook:
   name: "Facebook"
