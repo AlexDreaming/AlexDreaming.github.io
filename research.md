@@ -2,7 +2,7 @@
 layout: page
 title: Research
 subtitle: I would like to be a single-cell organisms, heartless crature alive.
-image: /img/page1.png
+bigimg: "/img/heikediguo.jpg"
 ---
 
 ## Research Experience
