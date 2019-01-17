@@ -16,7 +16,7 @@ My GPA is 3.93/4 (ranked 1/113 in the department).
 
 ### My Hobbies
 
--**Bodybuilding**: In the past three years, keeping fit has changed me from Mr.Fatty to Mr.Muscle. Currently,my BF% is 8.2% where my wieght is 68 Kg.
+- **Bodybuilding**: In the past three years, keeping fit has changed me from Mr.Fatty to Mr.Muscle. Currently,my BF% is 8.2% where my wieght is 68 Kg.
 
--**Moive**: I always enjoy science fiction and action movies. My favorite movie stars are Jackie Chan and Jason Statham.
+- **Moive**: I always enjoy science fiction and action movies. My favorite movie stars are Jackie Chan and Jason Statham.
 
