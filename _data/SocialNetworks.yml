@@ -10,7 +10,7 @@
 weixin:
   name: "Wechat"
   baseURL: ""
-  icon: "fa fa-weixin"
+  icon: "D:/MarkDown/cmd_markdown_win64/cmd_markdown_win64/font-awesome-4.7.0/font-awesome-4.7.0/css/font-awesome.min.css/fa-weixin"
 
 facebook:
   name: "Facebook"
