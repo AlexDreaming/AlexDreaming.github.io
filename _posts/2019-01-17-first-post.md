@@ -4,4 +4,4 @@ title: Hello World!
 image: /img/hello_world.jpeg
 ---
 
-This is my stage!
+## Try to be a rainbow in someone's cloud. 
