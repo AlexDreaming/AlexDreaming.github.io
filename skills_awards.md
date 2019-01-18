@@ -9,7 +9,7 @@ bigimg: "/img/skill.jpg"
 ## <i class="fa fa-wrench"></i> Skills 
 
 - **Languages:** Python (Numpy, Pandas, Matplotlib), C++, C, C#, SQL, PHP, Java, Swift, Latex/Markdown
-- **DeepLearning Frameworks:** Tensorflow, Pytorch <img src="E:/个人主页/icon.jpg" width="265px">
+- **DeepLearning Frameworks:** Tensorflow, Pytorch 
 - **Software/Database:** Linux, Anaconda, Jupyter Notebook, Pycharm, Eclipse, Hadoop, MySql, Flash, Visual Studio, Sublime, MobaXterm, Overleaf.
 
 ---
