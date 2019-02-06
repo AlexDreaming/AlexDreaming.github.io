@@ -16,7 +16,7 @@ bigimg: "/img/heikediguo.jpg"
 > * **Used matplotlib to show the results of each algorithms on each PDE, where the best result (error rate) of Burgers is 3.3e-4 and that of Poisson is 0.7e-4.**
 > * **Analysed the sampling error of Physics-Informed Neural Networks of Burgers and Poisson PDE.**
 **[Here](Burgers_and_Poisson_10.pdf) are some figures of results.**
-
+**[Here](Summary.zip) is the code.**
 ---
 
 
