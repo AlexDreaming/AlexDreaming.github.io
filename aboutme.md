@@ -12,7 +12,7 @@ My research interests lie in Medical Image Computing and Computer Vision.
 <br>
 
 
-[Here](CV_2020.pdf) is my CV.
+[Here](CV-ZiqiaoWeng.pdf) is my CV.
 
 ---
 ### <i class="fa fa-universal-access"></i> Objective
