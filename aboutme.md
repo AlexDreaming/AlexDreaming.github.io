@@ -7,18 +7,16 @@ bigimg: "/img/bizhi.png"
 <link rel="stylesheet" href="D:/MarkDown/cmd_markdown_win64/cmd_markdown_win64/font-awesome-4.7.0/font-awesome-4.7.0/css/font-awesome.min.css">
 <i class="fa fa-graduation-cap"></i>
 My name is Ziqiao Weng (翁梓乔). 
-I am currently a senior student from Department of Electronic Information Engineering of Zhejiang University City College. 
-My research interests lie in Machine Learning, especially AutoML algorithms, and I have strong interest in Reinforcement Learning.
-Besides, Computer Vision and Natural Language Processing are also the fields I am interested in.
-My GPA is 3.93/4 (ranked 1/113 in the department).
+I am currently a research intern in MIRACLE group at Chinese Academy of Sciences, working with S.Kevin Zhou. 
+My research interests lie in Medical Image Computing and Computer Vision.
 <br>
-**Most importantly, I will apply for Phd program of 2020 fall.**
 
-[Here](CV_0117.pdf) is my CV.
+
+[Here](CV_2020.pdf) is my CV.
 
 ---
 ### <i class="fa fa-universal-access"></i> Objective
-To work meaningfully as a research intern in the realms of Machine Learning and/or Deep Learning. 
+To work meaningfully as a research intern in the realms of Medical Image Analysis and Deep Learning. 
 
 ---
 
